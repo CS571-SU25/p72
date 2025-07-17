@@ -1,7 +1,7 @@
 
-# 安装依赖
+# install
 npm install
 
-# 运行项目
-npm start
+# ru 
+npm run dev
 ```
